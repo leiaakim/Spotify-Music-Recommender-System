@@ -13,7 +13,7 @@ This project follows these main steps:
 4. **Generating Recommendations**
 
 ## DataSet
-Spotify 1 Million Tracks data from Kaggle 
+[Spotify 1 Million Tracks](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks/data)
 
 ## Packages
 The project uses the following Python packages:
@@ -24,6 +24,6 @@ import regex as re
 import matplotlib.pyplot as plt
 import seaborn as sb
 
-from sklearn.neighbors import NearestNeighbors```
+from sklearn.neighbors import NearestNeighbors
 
 
