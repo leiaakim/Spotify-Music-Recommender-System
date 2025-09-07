@@ -12,6 +12,9 @@ This project follows these main steps:
 3. **Model Building** – implementing a kNN model
 4. **Generating Recommendations**
 
+## DataSet
+Spotify 1 Million Tracks data from Kaggle 
+
 ## Packages
 The project uses the following Python packages:
 ```python
@@ -23,5 +26,4 @@ import seaborn as sb
 
 from sklearn.neighbors import NearestNeighbors```
 
-## DataSet
-Spotify 1 Million Tracks data from Kaggle 
+
